@@ -35,4 +35,4 @@ Either run [sessiongen.py](./sessiongen.py) locally or run it on [repl.it by cli
 
 
 ## Credits
-- [Me](https://github.com/xditya)   
+- [PERO](https://github.com/xditya)   
