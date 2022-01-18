@@ -7,7 +7,7 @@ Fully working VC (user)Bot, based on py-tgcalls and py-tgcalls-wrapper with mini
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/sahilsi552/QNR-VC)   
 
 * Local machine/VPS:   
- `git clone https://github.com/sahilsi552/QNR-VC  
+`git clone https://github.com/sahilsi552/QNR-VC  
 `pip install -r requirements.txt`   
 `apt-get install ffmpeg`   
 `touch .env && nano .env`, fill in the vars as in [.env.sample](./.env.sample)   
