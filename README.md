@@ -1,20 +1,20 @@
-# VCBOT
+# QNR BOT
 Fully working VC (user)Bot, based on py-tgcalls and py-tgcalls-wrapper with minimal [features](#TODO).   
 
 
 ## Deploying
 * To heroku:   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/xditya/VCBot)   
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/sahilsi552/QNR-VC)   
 
 * Local machine/VPS:   
-`git clone https://github.com/xditya/VCBot`   
+ git clone https://github.com/sahilsi552/QNR-VC  
 `pip install -r requirements.txt`   
 `apt-get install ffmpeg`   
 `touch .env && nano .env`, fill in the vars as in [.env.sample](./.env.sample)   
 `python bot.py`   
 
 ## SESSION
-Either run [sessiongen.py](./sessiongen.py) locally or run it on [repl.it by clicking here.](https://replit.com/@xditya/PyroSessionGen)
+Either run [sessiongen.py](./sessiongen.py) locally or run it on [repl.it by clicking here.](https://replit.com/@sahilsi552/QNR-PYROGRAM-REPL)
 ## Commands:   
 - `!on` - Check if the (user)bot is online.   
 - `!help` - Help message.   
@@ -22,8 +22,7 @@ Either run [sessiongen.py](./sessiongen.py) locally or run it on [repl.it by cli
 - `!pause` - Pause the stream.   
 - `!resume` - Yes, resume.   
 
-## Support
-- [@BotzHub](https://t.me/BotzHubChat)   
+
 
 
 ## TODO
@@ -36,8 +35,4 @@ Either run [sessiongen.py](./sessiongen.py) locally or run it on [repl.it by cli
 
 
 ## Credits
-- [pytgcalls](https://github.com/pytgcalls/pytgcalls)   
-- [pytgcalls-wrapper](https://github.com/callsmusic/pytgcalls-wrapper)   
-- [Pyrogram](https://github.com/pyrogram/pyrogram)   
 - [Me](https://github.com/xditya)   
-- Everyone who [contributed](https://github.com/xditya/VCBot/graphs/contributors).
