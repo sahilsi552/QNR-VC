@@ -4,7 +4,7 @@ Fully working VC (user)Bot, based on py-tgcalls and py-tgcalls-wrapper with mini
 
 ## Deploying
 * To heroku:   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/sahilsi552/QNR-VC)   
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/sahilsi552/QNR-VC)   
 
 * Local machine/VPS:   
 `git clone https://github.com/sahilsi552/QNR-VC`  
