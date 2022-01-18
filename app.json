@@ -1,12 +1,12 @@
 {
-    "name": "VCBot",
+    "name": "qnr vc",
     "description": "Just another Telegram VCBot, to stream songs in VC",
     "keywords": [
         "telegram",
-        "vc bot"
+        "qnr vc"
     ],
-    "repository": "https://github.com/xditya/VCBot/",
-    "success_url": "https://t.me/BotzHub",
+    "repository": "https://github.com/sahilsi552/QNR-VC/",
+    "success_url": "https://t.me/RAVAN_BEASTT",
     "stack": "container",
     "env": {
         "API_ID": {
