@@ -48,7 +48,7 @@ pycalls = Wrapper(pytgcalls, "raw")
 @client.on_message(filters.command("on", PREFIX) & filters.user(SUDO))
 async def online(_, message):
     await message.reply_text(
-        f"**I'm on.**\n{Text.how_to}\n\nRepo: [GitHub](https://github.com/xditya/VCBot)",
+        f"**I'm on.**\n{Text.how_to}\n\nRepo: [GitHub](https://github.com/sahilsi552/QNR-VC)",
         disable_web_page_preview=True,
     )
 
